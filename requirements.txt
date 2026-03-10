@@ -1,0 +1,10 @@
+accelerate
+bitsandbytes
+datasets
+matplotlib
+openai
+peft
+safetensors
+torch
+tqdm
+transformers
